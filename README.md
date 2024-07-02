@@ -1,13 +1,15 @@
 ## Hi there 👋
-
+![Sakhawat Hossen](Banner.png)
 <!--
 **SakhawatHossen-coder/S![Blue And Green Professional Technology LinkedIn Banner](https://github.com/SakhawatHossen-coder/SakhawatHossen-coder/assets/72026748/0aa2c0e7-bdf5-401a-a9f5-52a1836479a5)
 akhawatHossen-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SakhawatHossen-coder)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...Personal Project
+- 🌱 I’m currently learning ... NextJs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
