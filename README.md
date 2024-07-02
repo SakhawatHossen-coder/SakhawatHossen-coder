@@ -1,19 +1,19 @@
 ## Hi there 👋
 ![Sakhawat Hossen](Banner.png)
-<!--
-**SakhawatHossen-coder/S![Blue And Green Professional Technology LinkedIn Banner](https://github.com/SakhawatHossen-coder/SakhawatHossen-coder/assets/72026748/0aa2c0e7-bdf5-401a-a9f5-52a1836479a5)
-akhawatHossen-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SakhawatHossen-coder)](https://git.io/streak-stats)
+## Sakhawat Hossen
 
-Here are some ideas to get you started:
+I'm an LL.B student with a strong passion for web development. I'm particularly interested in building user-friendly and visually appealing web applications using the MERN stack (MongoDB,
+ Express.js, React.js, and Node.js). JavaScript is my primary programming language, and I leverage component libraries like Tailwind CSS, DaisyUI, and Material Tailwind to streamline development and create beautiful interfaces.
+--
+## Skils
+![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Nodejs-blue?logo=Nodejs)
+![Static Badge](https://img.shields.io/badge/reactjs-blue?logo=react)
+![Static Badge](https://img.shields.io/badge/express-blue?logo=express)
+![Static Badge](https://img.shields.io/badge/mongodb-blue?logo=mongodb)
+![Static Badge](https://img.shields.io/badge/tailwindcss-blue?logo=tailwindcss)
 
-- 🔭 I’m currently working on ...Personal Project
-- 🌱 I’m currently learning ... NextJs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=SakhawatHossen-coder&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
